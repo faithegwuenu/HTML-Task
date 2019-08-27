@@ -1,0 +1,37 @@
+body {
+    max-width: 950px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0px;
+    background-color: #ede1ed;
+}
+img {
+    border-radius: 50%;
+    height: 180px;
+
+}
+.info{
+padding-left: 80px;
+text-align: center;
+}
+.container {
+    display: flex;
+}
+
+.flex-1 {
+    width: 30%;
+    background-color: #f7f5f7;
+    padding: 0 20px; 
+}
+
+.flex-2 {
+    width: 70%;
+    padding: 0 20px; 
+}
