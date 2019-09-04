@@ -35,3 +35,25 @@ text-align: center;
     width: 70%;
     padding: 0 20px; 
 }
+.contact{
+    max-width: 350px;
+    width: 100%;
+    margin: 0 20px;
+}
+.input_field{
+    width: 30em;
+    margin-bottom: 20px;
+    padding: 7px;
+    border: 1px solid #333;
+}
+
+.btn{
+    width: 30em;
+    border: 1px solid;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #ede1ed;
+    color: #000;
+    border-radius: 5px;
+}
